@@ -1,7 +1,7 @@
 # 1HourDesign
 Design and implementation of a responsive landing page in one hour as part of Scrimba's one-hour design challenge.
 
-This project was done as part of challenge for Scrimba's Responsive Design Bootcamp
+This project was done as part of a challenge for Scrimba's Responsive Design Bootcamp
 
 # Demo
 
